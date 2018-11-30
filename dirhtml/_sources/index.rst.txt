@@ -1,0 +1,28 @@
+.. include:: intro.rst
+
+.. toctree::
+   :caption: Theme Documentation
+   :maxdepth: 2
+
+   installing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

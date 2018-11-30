@@ -1,0 +1,35 @@
+Membangun Cluster Computing untuk HPC
+=====================================
+Perkembangan teknologi menjadi begitu pesat di beberapa dekade terakhir ini.
+Mulai bermunculannya sebuah teknologi komputasi yang powerfull menbuat banyak 
+kalangan peneliti kagum dengan kehebatannya. Supercomputer yang digunakan untuk 
+computing benar benar seperti Supercomputing yang dapat menghitung dengan sangat
+cepat. Kehadiran bidang High Performace Computing(HPC) membuat dunia harus mulai 
+mengejar ketertinggalannya dalam teknik berhitung. Berkat HPC, manusia tidak perlu
+takut untuk menghitung apapun dalam jumlah banyak. Seperti yang dapat kita lihat
+bahwa potenti untuk bidang modelling sangat bisa diproses dengan HPC. modelling 
+computation biasanya bekerja untuk memodelkan suatu sistem baik kecil maupun yang
+besar. Banyak sistem besar yang dapat dimodelkan dan itu tentunya membutuhkan 
+komputasi dengan sumber daya dan biaya yang tinggi untuk memprosesnya. Jika tidak 
+menggunakan HPC maka, model tersebut akan tersara lambat untuk dimodelkan. 
+
+Kehadiran HPC memberikan solusi untuk banyak permasalahan besar yang ada di dunia.
+Seperti permasalahan pada pemodelan cuaca dan gelombang, pemodelan gerak lempeng, 
+model untuk mencari mineral atau sumber tambang baru, ekonomi, kesehatan, 
+pemerintahan, kecerdasan buatan, dan masih banyak lainnya yang dapat diselesaikan 
+dengan HPC.
+
+Pada tutorial ini, kita aka membangun sebuah Cluster Computing untuk tools HPC. 
+Cluster Computing digunakan sebagai tools parallel distributed system untuk memproses
+komputasi secara parallel. Jadi ini menjadi hal yang pasti dalam menjalankan 
+permasalahan HPC kita sangat membutuhkan Cluster Computer. 
+
+
+Apa itu Cluster Computing
+=========================
+Cluster Computing merupakan sebuah konsep computer cluster yang dibangun untuk
+menjalankan proses parallel. Cluster ini merupakan cluster yang dibangung dari 
+beberapa atau banyak komputer independent dan dikonsep menjadi satu kesatuan 
+sistem sehingga dapat bekerja secara bersamaan. Cluster Computing dibangun 
+persis untuk tugasnya yaitu mengerjakan komputasi dengan sangat cepat. Pastinya
+untuk membangun ini kita membutuhkan karakteristik yang sesuai dengan ini.
